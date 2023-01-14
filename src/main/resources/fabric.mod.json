@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "datapacksscreen",
+  "version": "${version}",
+  "name": "Datapacks Screen",
+  "description": "A simple mod that adds a hotkey to open datapacks selection screen that allows you to toggle and reorder datapacks.",
+  "authors": ["iliamakar"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/datapacksscreen/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "datapacksscreen.AutoReloadMod"
+    ]
+  },
+  "mixins": [
+    "datapacksscreen.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14",
+    "fabric": "*",
+    "minecraft": "1.19.3",
+    "fabric-key-binding-api-v1": "*"
+  }
+}

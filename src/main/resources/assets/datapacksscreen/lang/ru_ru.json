@@ -1,0 +1,12 @@
+{
+  "iliamakar.select_datapack": "Выберите датапаки",
+  "iliamakar.available_datapacks": "Доступные",
+  "iliamakar.enabled_datapacks": "Активные",
+  "iliamakar.currently_unstable": "Этот функционал в данный момент нестабилен!",
+  "iliamakar.autoreload_info": "Переключить авто-перезагрузку для этого датапака.\nПри разворачивании окна игры, мод перезагружает все измененные .mcfunction файлы во всех выбранных датапаках. Если вы измените что-то отличное от функций, нужно будет прописать команду /reload.",
+
+  "iliamakar.datapacksscreen.reloaded": "Перезагружено %d функций",
+
+  "iliamakar.datapacksscreen.open_gui_keybind": "Открыть окно датапаков",
+  "iliamakar.datapacksscreen.mod_name": "Datapacks Screen"
+}

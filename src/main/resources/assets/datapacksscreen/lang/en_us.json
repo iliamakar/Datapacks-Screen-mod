@@ -1,0 +1,12 @@
+{
+  "iliamakar.select_datapack": "Select Datapacks",
+  "iliamakar.available_datapacks": "Available",
+  "iliamakar.enabled_datapacks": "Enabled",
+  "iliamakar.currently_unstable": "This feature is currently unstable!",
+  "iliamakar.autoreload_info": "Toggle auto-reloading for this datapack.\nWhen the window getting focus the mod reloads all changed .mcfunction files in all selected datapacks. If you change something other than functions you will need to use /reload command.",
+
+  "iliamakar.datapacksscreen.reloaded": "Reloaded %d functions",
+
+  "iliamakar.datapacksscreen.open_gui_keybind": "Open datapacks screen",
+  "iliamakar.datapacksscreen.mod_name": "Datapacks Screen"
+}

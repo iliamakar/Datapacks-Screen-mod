@@ -1,0 +1,12 @@
+{
+  "iliamakar.select_datapack": "选择数据包",
+  "iliamakar.available_datapacks": "可用",
+  "iliamakar.enabled_datapacks": "已启用",
+  "iliamakar.currently_unstable": "此项功能还尚不稳定！",
+  "iliamakar.autoreload_info": "为此数据包启用自动重载功能。\n当点击重载后，模组会重载所有选定数据包中的所有被更改的.mcfunction文件。如果你更改了函数之外的内容，请使用/reload指令。",
+
+  "iliamakar.datapacksscreen.reloaded": "重载%d函数",
+
+  "iliamakar.datapacksscreen.open_gui_keybind": "打开数据包屏幕",
+  "iliamakar.datapacksscreen.mod_name": "数据包屏幕"
+}

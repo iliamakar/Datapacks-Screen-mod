@@ -1,0 +1,12 @@
+{
+  "iliamakar.select_datapack": "Seleziona datapack",
+  "iliamakar.available_datapacks": "Disponibili",
+  "iliamakar.enabled_datapacks": "Abilitati",
+  "iliamakar.currently_unstable": "Questa funzione è attualmente instabile!",
+  "iliamakar.autoreload_info": "Attiva/disattiva il ricaricamento automatico per questo datapack.\nQuando la finestra viene attivata, la mod ricarica tutti i file .mcfunction modificati in tutti i datapack selezionati. Se si modifica qualcosa di diverso dalle funzioni, sarà necessario utilizzare il comando /reload.",
+
+  "iliamakar.datapacksscreen.reloaded": "%d funzioni ricaricate",
+
+  "iliamakar.datapacksscreen.open_gui_keybind": "Apri la schermata di datapack",
+  "iliamakar.datapacksscreen.mod_name": "Datapacks Screen"
+}
